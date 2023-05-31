@@ -1,0 +1,40 @@
+<html> 
+<head> 
+<style>
+body  {
+background-color: lightgreen  ; 
+} 
+</style>
+<title> 
+Dr Leahu Dental Clinics
+</title> 
+</head> 
+<body> 
+<h1><i> Pogramul o noua sansa 100 de euro credit pentru fiecare implant care trebuie inlocuit </h1></i>
+La Clinicile Dentare Dr. Leahu orice problema stomatologica isi gaseste solutia potrivita!
+Prin , Programul o noua sansa beneficiezi de 100 euro credit, din partea noastra, pentru fiecare implant dentar care trebuie inlocuit!
+
+Daca si tu iti doreai un implant dentar pentru a scapa de disconfortul creat de lipsa unui dinte si in  realitate te-ai ales cu probleme stomatologice mai mari, atunci alege ,Programul o noua sansa garantat de Dr. Leahu!
+
+<img src="poza 1.jpg" align="middle" width"40" height"40">
+<h2> PROBLEME CAUZATE DE IMPLANTURILE DENTARE ESUATE. CE SE INTAMPLA CAND PACIENTII NU BENEFICIAZA DE O INTERVENTIE CHIRUGICALA CORECTA? </h2>
+<ul>
+<li> Infectii la nivelul gingiilor si a tesuturilor moi din cauza implantului dentar.
+Acestea pot duce la un esec total, iar interventia chirurgicala poate deveni un adevarat risc pentru organismul tau. </li>
+<li> Sinusurile pot fi afectate. Impalnturile dentare cu dimensiuni nepotrivite pentru tine pot duce la complicatii : afectarea sinusurilor si la retragerea implanturilor dentare </li>
+<li> Mobiitatea implantului denatr. Atunci cand implanturile nu sunt inserate corect, acestea nu se integreaza si prezinta o mobilitate crescuta ce provoaca dureri greu de suportat. </li>
+<li> Ruperea implantului dentar. Chiar daca acesta eset realizat printr-un material extrem de rezistent, implantul dentar poate suferi diferite rupturi. Neilocuit la timp acesta poate duce la pierdera volumului osului sau la aparitia infectiilor </li>
+</ul>
+
+<hr> <hr color="#00FF00" size="4" width=50%">
+
+<h1> Beneficiile unui implant dentar corect inserat </h1>
+
+<ul>
+<li> Implantul dentar protejeaza dintii sanatosi deoarece este o solutie protetica prin care se inlocuieste doar dintele lipsa (fara afectarea celor vecini, asa cum se intampla in cazul unei punti dentare); </li>
+<li> Confort si incredere in sine mananci, vorbesti si zambesti fara frica si durere </li>
+</ul>
+
+<img src="poza.jpg" align="middle" width"40" height"40">
+</body>
+</html>
